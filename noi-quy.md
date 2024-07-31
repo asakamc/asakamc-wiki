@@ -1,30 +1,30 @@
 ---
 description: >-
-  AsakaMC được thiết kế để trở thành một server, môi trường vui vẻ, an toàn và
-  thân thiện cho mọi người chơi. Và để đảm bảo được một môi trường như vậy,
-  chúng tôi tạo ra những nội quy (quy tắc/luật/rule
+  Để môi trường vui vẻ, an toàn và thân thiện cho mọi người chơi, chúng tôi tạo
+  ra những nội quy (quy tắc/luật) Những điều dưới đây sẽ bị cấm!
 ---
 
 # 📜 Nội Quy
 
-* **R1 (Chat)**
-* 1\. Nghiêm cấm mọi hành vi: phát tán thông tin sai sự thật, đùa quá trớn, kì thị và phân biệt vùng miền, chủng tộc, giới tính, ...
-* 2\. Mọi hành vi đe dọa đến máy chủ và người chơi (DDoS, quấy rối, tống tiền, chia sẻ thông tin cá nhân hoặc gửi liên kết độc hại, lừa đảo, ...)
-* 3\. Cấm mọi hành vi quảng cáo các trang web, mạng xã hội, group, page, máy chủ của bên thứ ba mà chưa được sự cho phép của người có thẩm quyền
-* \
-  \+ Hãy tôn trọng nhau và chơi chung với nhau một cách vui vẻ, tôn trọng :D\
-  \+ Nên hạn chế chửi tục, nói chuyện bậy bạ, xúc phạm quá mức\
-  \+ Đối với người chơi có rank YouTube/Media thì có thể đăng link live stream của bản thân (lưu ý: không spam liên tục, không phải video hoặc link channel để kêu gọi đăng kí/thích/chia sẻ/...)
-* \
+**R**ule**1 (Chat)**
 
-* **R2 (Tài khoản)**
-* 1\. Nghiêm cấm mọi hành vi sử dụng tên và skin để mạo danh thành người chơi khác/người có thẩm quyền để đi lừa đảo, lợi dụng, ...
-* 2\. Tên và skin không được xúc phạm, bậy bạ, bôi nhọ bất kì cá nhân hoặc tổ chức nào
-* 3\. Nghiêm cấm tạo tài khoản clone dùng để treo bot/script tự động, né tránh/lách luật, xử phạt, ...
-* \
-  \+ Chúng tôi sẽ KHÔNG chịu trách nhiệm nếu bạn bị mất tài khoản do chia sẻ tài khoản của bạn cho người khác, không bảo mật tài khoản kĩ, virus/trojan/rat, ...\
-  \+ Bạn có thể xem cách bảo mật tài khoản [**\[TẠI ĐÂY\]**](https://www.asakamc.xyz/wiki/security.html)
-* \
+1. Hành vi, nội dung tin nhắn không phù hợp, tục tĩu, bậy bạ, độc hại _(Toxic)_ nghiêm trọng
+2. Quảng cáo máy chủ, mạng xã hội, v.v của bên thứ ba mà không có sự cho phép của ban quản trị.
+3. Bất kỳ loại đe dọa hoặc từ ngữ xúc phạm, công kích để cá nhân hoặc tập thể nào.
+4. Bất kỳ tin nhắn nào liên quan đến hoạt động phạm pháp _(DDoS, Dox, tống tiền, hoặc bất cứ thứ gì tương tự)_.
+5. Bất kỳ loại spam nào hoặc làm loạn chat/cuộc trò chuyện.\
+
+
+**R**ule**2 (Tài khoản)**
+
+1. Nghiêm cấm mọi hành vi sử dụng tên và skin để mạo danh thành người chơi khác/người có thẩm quyền để đi lừa đảo, lợi dụng, ...
+2. Tên và skin không được xúc phạm, bậy bạ, bôi nhọ bất kì cá nhân hoặc tổ chức nào
+3. Nghiêm cấm tạo tài khoản clone dùng để treo bot/script tự động, né tránh/lách luật, xử phạt, ...\
+
+
+\+ Chúng tôi sẽ KHÔNG chịu trách nhiệm nếu bạn bị mất tài khoản do chia sẻ tài khoản của bạn cho người khác, không bảo mật tài khoản kĩ, virus/trojan/rat, ...\
+\+ Bạn có thể xem cách bảo mật tài khoản [**\[TẠI ĐÂY\]**](https://www.asakamc.xyz/wiki/security.html)\
+
 
 * **R3 (Hành vi)**
 * 1\. Nghiêm cấm mọi hành vi hack, check password, ... tài khoản của người chơi khác!
