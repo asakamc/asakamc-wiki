@@ -44,16 +44,13 @@ description: >-
 
 
 
-**R**ule**4 (Khác)**
+**R**ule**4 (Khác)**&#x20;
 
-1\. Quyết định, mức độ cuối cùng là ở người ra quyết định xử phạt bạn (staff)/người có thẩm quyền.
-
-2\. Nếu bạn nghĩ bạn bị xử phạt sai, không chính xác, hoặc bị lạm quyền, hãy liên hệ [**\[TẠI ĐÂY\]**](https://discord.asakamc.xyz/)**.**
-
-3\. Không cho phép sử dụng proxy/VPN/DNS với mục đích xấu.
-
-4\. Không lạm quyền, lợi dụng chức vụ.
-
-5\. Phải dùng client/mod/chức năng cho phép, không trái quy định.
+1. Quyết định, mức độ cuối cùng là ở người ra quyết định xử phạt bạn (staff)/người có thẩm quyền.
+2. Nếu bạn nghĩ bạn bị xử phạt sai, không chính xác, hoặc bị lạm quyền, hãy liên hệ [**\[TẠI ĐÂY\]**](https://discord.asakamc.xyz/)**.**
+3. Không cho phép sử dụng proxy/VPN/DNS với mục đích xấu.
+4. Không lạm quyền, lợi dụng chức vụ.
+5. Phải dùng client/mod/chức năng cho phép, không trái quy định.
+6. Nếu chúng tôi yêu cầu ScreenShare, vui lòng tải bật phần mềm AnyDesk hoặc TeamViewer. Nếu từ chối hoặc thoát máy chủ hoặc bị phát hiện có phần mềm gian lận lúc ScreenShare sẽ bị ban 30 ngày. Nếu thú nhận sẽ được giảm án.
 
 \
