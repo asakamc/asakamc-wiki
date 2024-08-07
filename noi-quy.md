@@ -28,19 +28,13 @@ description: >-
 
 **R**ule**3 (Hành vi)**
 
-1\. Mọi hành vi hack, check password, ... tài khoản của người chơi khác!
-
-2\. Mọi hành vi lừa đảo, xin rank/chức vụ.
-
-3\. Mọi hành vi tạo, chia sẻ, lan truyền, sử dụng hack/cheat, phần mềm bên thứ ba, pack, script, ... để mang lại lợi thế cho mình _(điều này bao gồm các ứng dụng/mod tương tự như Macro , No Click Delay, ...)._
-
-4\. Nghiêm cấm mọi hành vi phát hoại máy chủ (DDoS, làm sập server (crash), tấn công bằng bot (bot attack),...).
-
-5\. Nghiêm cấm mọi hành vi lợi dụng lỗi, lỗ hổng của máy chủ để trục lợi, mang lại lợi ích cho bản thân mà không báo cáo lỗi cho người có thẩm quyền.
-
-6\. Nghiêm cấm tất cả hành vi cờ bạc, buôn bán vật phẩm, tài khoản, … bằng tiền thật.
-
-7\. Cấm mọi hành vi cross-teaming, team-griefing ở một số chế độ, khuyến khích phá vỡ quy tắc, xây dựng hoặc vẽ không phù hợp.
+1. Mọi hành vi hack, check password, ... tài khoản của người chơi khác!
+2. Mọi hành vi lừa đảo, xin rank/chức vụ.
+3. Mọi hành vi tạo, chia sẻ, lan truyền, sử dụng hack/cheat, phần mềm bên thứ ba, pack, script, ... để mang lại lợi thế cho mình _(điều này bao gồm các ứng dụng/mod tương tự như Macro , No Click Delay, ...)._
+4. Mọi hành vi phá hoại máy chủ (DDoS, làm sập server (crash), tấn công bằng bot (bot attack),...).
+5. Mọi hành vi lợi dụng lỗi, lỗ hổng của máy chủ để trục lợi, mang lại lợi ích cho bản thân mà không báo cáo lỗi cho người có thẩm quyền.
+6. Tất cả hành vi cờ bạc, buôn bán vật phẩm, tài khoản, … bằng tiền thật.
+7. Mọi hành vi cross-teaming, team-griefing ở một số chế độ, khuyến khích phá vỡ quy tắc, xây dựng hoặc vẽ không phù hợp.
 
 
 
