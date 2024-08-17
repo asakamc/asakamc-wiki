@@ -30,7 +30,7 @@ description: >-
 
 1. Mọi hành vi hack, check password, ... tài khoản của người chơi khác!
 2. Mọi hành vi lừa đảo, xin rank/chức vụ.
-3. Mọi hành vi tạo, chia sẻ, lan truyền, sử dụng hack/cheat, phần mềm bên thứ ba, pack, script, ... để mang lại lợi thế cho mình _(điều này bao gồm các ứng dụng/mod tương tự như Macro , No Click Delay, ...)._
+3. Mọi hành vi tạo, chia sẻ, lan truyền, sử dụng hack/cheat, phần mềm bên thứ ba, pack, script, ... để mang lại lợi thế cho mình _(điều này bao gồm các ứng dụng/mod/script tương tự như Macro , Auto Clicker, ...). (**CHO PHÉP**:_ No Click Delay_/_Remove Click Delay_)_
 4. Mọi hành vi phá hoại máy chủ (DDoS, làm sập server (crash), tấn công bằng bot (bot attack),...).
 5. Mọi hành vi lợi dụng lỗi, lỗ hổng của máy chủ để trục lợi, mang lại lợi ích cho bản thân mà không báo cáo lỗi cho người có thẩm quyền.
 6. Tất cả hành vi cờ bạc, buôn bán vật phẩm, tài khoản, … bằng tiền thật.
@@ -45,6 +45,6 @@ description: >-
 3. Không cho phép sử dụng proxy/VPN/DNS với mục đích xấu.
 4. Không lạm quyền, lợi dụng chức vụ.
 5. Phải dùng client/mod/chức năng cho phép, không trái quy định.
-6. Nếu chúng tôi yêu cầu ScreenShare, vui lòng tải bật phần mềm AnyDesk hoặc TeamViewer (Nếu từ chối hoặc thoát máy chủ hoặc bị phát hiện có phần mềm gian lận lúc ScreenShare sẽ bị ban 30 ngày. Nếu thú nhận sẽ được giảm án).
+6. Nếu chúng tôi đóng băng (Freeze) bạn để yêu cầu Screen Share, vui lòng tải bật phần mềm AnyDesk hoặc TeamViewer (Nếu từ chối hoặc thoát máy chủ hoặc bị phát hiện có phần mềm gian lận lúc ScreenShare sẽ bị ban 30 ngày. Nếu thú nhận sẽ được giảm án).
 
 \
