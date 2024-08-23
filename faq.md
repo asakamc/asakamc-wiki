@@ -30,7 +30,7 @@ description: Câu hỏi thường gặp (Frequently Asked Questions)
 
 \- Acc Crack/Offline: Có, chúng tôi không thể làm gì được
 
-\- Có thể chuyển đổi ... khác không (acc premium lẫn crack)? - Không.
+\- Có thể chuyển đổi rank/stats/... từ acc này sang acc khác không? (acc premium & crack) -> Không.
 
 5. **Cách bảo mật tài khoản là gì?**
 
