@@ -2,7 +2,7 @@
 description: Câu hỏi thường gặp (Frequently Asked Questions)
 ---
 
-# ❓ FAQ
+# Câu Hỏi Thường Gặp
 
 
 
@@ -20,9 +20,9 @@ description: Câu hỏi thường gặp (Frequently Asked Questions)
 
 \- Nếu acc Premium của bạn bị hack thì chúng tôi không thể làm gì, hãy liên hệ Microsoft
 
-3. **Tôi có thể chuyển acc Premium (online) thành crack (offline) (hoặc ngược lại) không?**
+3. **Tôi có thể chuyển tài khoản Minecraft Premium (online) thành crack (offline) (hoặc ngược lại) không?**
 
-\- Rất tiếc nhưng không thể.
+\- Có nhưng bạn sẽ bị mất dữ liệu. Hãy tạo ticket tại [máy chủ Discord chúng tôi](https://discord.askamc.xyz)!
 
 4. **Đổi tên có bị mất rank, stats, ... hoặc có thể chuyển đổi rank, stats từ acc này sang acc khác không?**
 
@@ -34,7 +34,7 @@ description: Câu hỏi thường gặp (Frequently Asked Questions)
 
 5. **Cách bảo mật tài khoản là gì?**
 
-\- [\[ẤN VÀO ĐÂY ĐỂ XEM\]](bao-mat.md)
+\- [\[ẤN VÀO ĐÂY ĐỂ XEM\]](../huong-dan/cach-bao-mat-tai-khoan.md)
 
 6. Làm sao để có rank Media/YouTube/staff?
 

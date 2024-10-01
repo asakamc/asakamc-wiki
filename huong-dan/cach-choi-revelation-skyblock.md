@@ -2,6 +2,6 @@
 description: Cách chơi Revelation SkyBlock
 ---
 
-# ⛏ Revelation SkyBlock
+# Cách chơi Revelation SkyBlock
 
 [https://blueberry.is-a.dev/rvl](https://blueberry.is-a.dev/rvl)
