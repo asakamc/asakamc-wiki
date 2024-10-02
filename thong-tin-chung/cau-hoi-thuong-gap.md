@@ -22,7 +22,7 @@ description: Câu hỏi thường gặp (Frequently Asked Questions)
 
 3. **Tôi có thể chuyển tài khoản Minecraft Premium (online) thành crack (offline) (hoặc ngược lại) không?**
 
-\- Có nhưng bạn sẽ bị mất dữ liệu. Hãy tạo ticket tại [máy chủ Discord chúng tôi](https://discord.askamc.xyz)!
+\- Có nhưng bạn sẽ bị mất dữ liệu. Hãy tạo ticket tại [máy chủ Discord chúng tôi](../)!
 
 4. **Đổi tên có bị mất rank, stats, ... hoặc có thể chuyển đổi rank, stats từ acc này sang acc khác không?**
 

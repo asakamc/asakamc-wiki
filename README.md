@@ -8,6 +8,6 @@ description: >-
 
 **Thông tin liên hệ**
 
-\- Discord chính thức: [**https://discord.asakamc.xyz**](https://discord.asakamc.xyz/)
+\- Discord chính thức: [**https://discord.asakamc.net**](https://discord.asakamc.net)
 
-\- Website: [**https://asakamc.xyz**](https://asakamc.xyz)
+\- Website: [**https://asakamc.net**](https://asakamc.net)

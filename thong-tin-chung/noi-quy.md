@@ -23,7 +23,7 @@ description: >-
 
 
 \+ Chúng tôi sẽ không chịu trách nhiệm nếu bạn bị mất tài khoản do chia sẻ tài khoản của bạn cho người khác/không bảo mật tài khoản kĩ/virus, trojan, rat/...\
-\+ Bạn có thể xem cách bảo mật tài khoản [**\[TẠI ĐÂY\]**](../huong-dan/cach-bao-mat-tai-khoan.md)**.**\
+\+ Bạn có thể xem cách bảo mật tài khoản [**\[TẠI ĐÂY\]**](../)**.**\
 
 
 **Nội Quy 3 (Hành vi)**
@@ -40,7 +40,7 @@ description: >-
 **Nội Quy 4 (Khác)**&#x20;
 
 1. Quyết định, mức độ cuối cùng là ở người ra quyết định xử phạt bạn _(staff)_/người có thẩm quyền.
-2. Nếu bạn nghĩ bạn bị xử phạt sai, không chính xác, hoặc bị lạm quyền, hãy liên hệ [**\[TẠI ĐÂY\]**](https://discord.asakamc.xyz/)**.**
+2. Nếu bạn nghĩ bạn bị xử phạt sai, không chính xác, hoặc bị lạm quyền, hãy liên hệ [**\[TẠI ĐÂY\]**](../)**.**
 3. Không cho phép sử dụng proxy/VPN/DNS với mục đích xấu.
 4. Không được lạm quyền, lợi dụng chức vụ.
 5. Phải dùng client/mod/chức năng cho phép, không trái quy định.
