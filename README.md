@@ -8,9 +8,9 @@ description: >-
 
 **Thông tin liên hệ**
 
-\- Website: [**https://asakamc.net**](https://asakamc.net)
+\- Website: [https://asakamc.net](https://asakamc.net)
 
-\- Discord chính thức: [**https://discord.asakamc.net**](https://discord.asakamc.net)
+\- Discord chính thức: [https://discord.asakamc.net](https://discord.asakamc.net)
 
 \- YouTube: [https://www.youtube.com/@AsakaMC](https://www.youtube.com/@AsakaMC)
 
