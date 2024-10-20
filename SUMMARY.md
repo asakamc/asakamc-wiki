@@ -6,6 +6,7 @@
 * [Nội Quy](thong-tin-chung/noi-quy.md)
 * [Câu Hỏi Thường Gặp](thong-tin-chung/cau-hoi-thuong-gap.md)
 * [Điều Khoản/Chính Sách](thong-tin-chung/dieu-khoan-chinh-sach.md)
+* [Page](thong-tin-chung/page.md)
 
 ## Hướng Dẫn
 
