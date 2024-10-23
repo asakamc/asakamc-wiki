@@ -8,7 +8,7 @@ description: >-
 
 ## Chính sách bảo mật
 
-Cập nhật lần cuối: Ngày 20 tháng 10 năm 2024 lúc 16 giờ 8 phút (UTC +7)
+Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 22 giờ 53 phút (UTC +7)
 
 ### I. Định nghĩa thuật ngữ
 
@@ -22,13 +22,13 @@ Khi bạn tham gia vào máy chủ của chúng tôi, chúng tôi sẽ thu thậ
 
 &#x20;\- **Thông tin tài khoản Minecraft**: Tên người chơi _(Minecraft Username/In-game name)_, UUID _(Unique User ID)_.
 
-&#x20;\- **Thông tin liên hệ**: Chúng tôi có thể thu thập thư điện tử _(email)_ của bạn và các thông tin liên quan khác để liên lạc nếu có.
+&#x20;\- **Thông tin liên hệ**: Chúng tôi có thể thu thập thư điện tử _(email)_ của bạn và các thông tin liên quan khác để liên lạc.
 
 &#x20;\- **Dữ liệu chơi game**: Tiến độ trò chơi, chỉ số, vật phẩm trong game, lịch sử giao dịch và tương tác của bạn, ... trong máy chủ.
 
 &#x20;\- **Địa chỉ IP**: Được thu thập khi bạn kết nối với máy chủ để đảm bảo tính bảo mật và chống gian lận.
 
-&#x20;\- Và một số thông tin cá nhân khác như mật khẩu, ngày đăng kí, ...
+&#x20;\- Và một số thông tin cá nhân khác như mật khẩu _(đã được mã hoá; chỉ sử dụng để xác thực khi đăng kí và đăng nhập)_, ngày đăng kí tài khoản, ...
 
 ### III. Cách chúng tôi sử dụng thông tin
 
@@ -60,7 +60,7 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 &#x20;\- **Theo yêu cầu pháp luật**: Chúng tôi có thể tiết lộ thông tin của bạn nếu điều này được yêu cầu bởi pháp luật hoặc cơ quan chức năng có thẩm quyền.
 
-&#x20;\- **Đối tác tin cậy**: Chúng tôi chỉ chia sẻ các thông tin cơ bản như IP, thư điện tử _(email)_ với các đối tác hỗ trợ trong việc duy trì và vận hành máy chủ và họ phải tuân thủ các cam kết bảo mật của chúng tôi
+&#x20;\- **Đối tác tin cậy**: Chúng tôi chỉ chia sẻ các thông tin cơ bản như IP, thư điện tử _(email)_ với các đối tác hỗ trợ trong việc duy trì và vận hành máy chủ và họ phải tuân thủ các cam kết bảo mật của chúng tôi.
 
 ### VI. Quyền của bạn
 
