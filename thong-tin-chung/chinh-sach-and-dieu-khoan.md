@@ -14,7 +14,7 @@
 
 ## Chính sách bảo mật
 
-_Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 23 giờ 2 phút (UTC +7)_
+_Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 23 giờ 3 phút (UTC +7)_
 
 ### I. Thông tin chúng tôi thu thập
 
@@ -70,8 +70,8 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 &#x20;\- Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào sẽ được thông báo qua kênh thông báo của chúng tôi qua [Discord](../). Việc tiếp tục chơi và/hoặc sử dụng dịch vụ của chúng tôi đồng nghĩa với việc đồng ý những thay đổi đó.
 
-## Chính sách bảo mật
+## Điều khoản dịch vụ
 
-Cập nhật lần cuối: ?
+_Cập nhật lần cuối: Ngày ? tháng ? năm ? lúc ? giờ ? phút (UTC +7)_
 
-Cập nhật sau...
+_**Cập nhật sau...**_
