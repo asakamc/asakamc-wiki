@@ -1,22 +1,22 @@
----
-description: >-
-  Khi chơi tại máy chủ của chúng tôi, bạn đồng ý với những điều được nêu trong
-  văn bản này.
----
+# Chính Sách & Điều Khoản
 
-# Điều Khoản/Chính Sách
+## Định nghĩa thuật ngữ
+
+&#x20;\- **"AsakaMC"** / **"Chúng tôi"** / **"Máy chủ"**: Đề cập đến đội ngũ quản trị, nhà phát triển và nhân viên của AsakaMC, bao gồm mọi dịch vụ và nền tảng liên quan đến máy chủ Minecraft AsakaMC.
+
+&#x20;\- **"Bạn"** / **"Người chơi"**: Bất kì cá nhân nào tham gia, sử dụng dịch vụ của chúng tôi.
+
+## Lưu ý
+
+&#x20;\- Khi chơi tại máy chủ của chúng tôi và/hoặc sử dụng dịch vụ của chúng tôi thì đồng nghĩa với việc bạn đồng ý với những điều được nêu trong văn bản này.&#x20;
+
+&#x20;\- Nếu bạn có thắc mắc, vui lòng liên hệ chúng tôi qua [máy chủ Discord](../) để được giải đáp. Chúng tôi không chịu trách nhiệm nếu có hiểu nhầm, phát sinh, mâu thuẫn không đáng có.
 
 ## Chính sách bảo mật
 
-Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 22 giờ 53 phút (UTC +7)
+_Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 23 giờ 2 phút (UTC +7)_
 
-### I. Định nghĩa thuật ngữ
-
-&#x20;\- **"Chúng tôi"** / **"AsakaMC"** / **"Máy chủ"**: Đề cập đến đội ngũ quản trị, nhà phát triển và nhân viên của AsakaMC, bao gồm mọi dịch vụ và nền tảng liên quan đến máy chủ Minecraft AsakaMC.
-
-&#x20;\- **"Bạn"** / **"Người chơi"**: Bất kì cá nhân nào tham gia sử dụng dịch vụ của máy chủ AsakaMC, bao gồm nhưng không giới hạn ở việc kết nối với máy chủ Minecraft, truy cập trang web chính thức và tham gia vào các hoạt động trong trò chơi.
-
-### II. Thông tin chúng tôi thu thập
+### I. Thông tin chúng tôi thu thập
 
 Khi bạn tham gia vào máy chủ của chúng tôi, chúng tôi sẽ thu thập các loại thông tin sau:
 
@@ -30,7 +30,7 @@ Khi bạn tham gia vào máy chủ của chúng tôi, chúng tôi sẽ thu thậ
 
 &#x20;\- Và một số thông tin cá nhân khác như mật khẩu _(đã được mã hoá; chỉ sử dụng để xác thực khi đăng kí và đăng nhập)_, ngày đăng kí tài khoản, ...
 
-### III. Cách chúng tôi sử dụng thông tin
+### II. Cách chúng tôi sử dụng thông tin
 
 Chúng tôi sử dụng thông tin cá nhân của bạn cho các mục đích sau:
 
@@ -44,7 +44,7 @@ Chúng tôi sử dụng thông tin cá nhân của bạn cho các mục đích s
 
 _CHÚNG TÔI CAM KẾT KHÔNG SỬ DỤNG THÔNG TIN CỦA BẠN VỚI MỤC ĐÍCH KHÁC MÀ KHÔNG THÔNG BÁO TRƯỚC HOẶC ĐƯỢC NÊU Ở TRONG VĂN BẢN NÀY._
 
-### IV. Bảo vệ thông tin
+### III. Bảo vệ thông tin
 
 Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức để bảo vệ thông tin cá nhân của bạn khỏi truy cập trái phép, mất mát hoặc rò rỉ. Điều này bao gồm:
 
@@ -54,7 +54,7 @@ Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức để bả
 
 _TUY NHIÊN, TẤT NHIÊN KHÔNG CÓ HỆ THỐNG BẢO MẬT NÀO LÀ HOÀN HẢO TUYỆT ĐỐI. DÙ CHÚNG TÔI NỖ LỰC HẾT SỨC ĐỂ BẢO VỆ THÔNG TIN CÁ NHÂN CỦA BẠN, KHÔNG CÓ BIỆN PHÁP BẢO MẬT NÀO CÓ THỂ ĐẢM BẢO AN TOÀN MỘT CÁCH HOÀN TOÀN TRƯỚC MỌI RỦI RO TIỀM ẨN. TRONG TRƯỜNG HỢP CÓ SỰ CỐ XẢY RA, CHÚNG TÔI SẼ CỐ GẮNG HẾT SỨC ĐỂ KHẮC PHỤC VẤN ĐỀ VÀ THÔNG BÁO CHO NGƯỜI CHƠI THEO QUY ĐỊNH CỦA PHÁP LUẬT VIỆT NAM QUY ĐỊNH. CHÚNG TÔI KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI NHỮNG THIỆT HẠI PHÁT SINH DO LỖI CHỦ QUAN TỪ PHÍA NGƯỜI DÙNG HOẶC DO CÁC YẾU TỐ NGOÀI TẦM KIỂM SOÁT CỦA CHÚNG TÔI._
 
-### V. Chia sẻ thông tin
+### IV. Chia sẻ thông tin
 
 Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, ngoại trừ trong các trường hợp sau:
 
@@ -62,11 +62,11 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 &#x20;\- **Đối tác tin cậy**: Chúng tôi chỉ chia sẻ các thông tin cơ bản như IP, thư điện tử _(email)_ với các đối tác hỗ trợ trong việc duy trì và vận hành máy chủ và họ phải tuân thủ các cam kết bảo mật của chúng tôi.
 
-### VI. Quyền của bạn
+### V. Quyền của bạn
 
 &#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../).
 
-### VII. Thay đổi chính sách
+### VI. Thay đổi chính sách
 
 &#x20;\- Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào sẽ được thông báo qua kênh thông báo của chúng tôi qua [Discord](../). Việc tiếp tục chơi và/hoặc sử dụng dịch vụ của chúng tôi đồng nghĩa với việc đồng ý những thay đổi đó.
 
