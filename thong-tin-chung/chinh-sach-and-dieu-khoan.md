@@ -64,7 +64,7 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 ### V. Quyền của bạn
 
-&#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../).
+&#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình nếu những yêu cầu này chúng tôi cho là hợp lí. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../).
 
 ### VI. Thay đổi chính sách
 
