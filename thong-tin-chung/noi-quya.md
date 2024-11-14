@@ -1,4 +1,8 @@
-# Nội Quy
+---
+hidden: true
+---
+
+# Nội Quya
 
 ### **Lưu Ý**
 
