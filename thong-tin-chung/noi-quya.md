@@ -42,6 +42,6 @@ _BẠN CÓ THỂ XEM CÁCH BẢO MẬT TÀI KHOẢN_ [_**\[TẠI ĐÂY\]**_](../
 2. Nếu bạn nghĩ bạn bị xử phạt sai, không chính xác, hoặc bị lạm quyền, hãy liên hệ [_**\[TẠI ĐÂY\]**_](../)**.**
 3. Không cho phép sử dụng proxy/VPN/DNS với mục đích xấu.
 4. Không được lạm quyền, lợi dụng chức vụ.
-5. Phải dùng trò chơi _(client)_/sửa đổi _(mod/_modification_)_/chức năng cho phép và đúng theo nội quy.
+5. Phải dùng trò chơi _(client)_/sửa đổi _(mod/_&#x6D;odificatio&#x6E;_)_/chức năng cho phép và đúng theo nội quy.
 6. Nếu chúng tôi đóng băng _(Freeze)_ bạn để yêu cầu Screen Share _(SS)_, vui lòng tải bật phần mềm [_**AnyDesk**_](https://anydesk.com) hoặc [_**TeamViewer**_](https://www.teamviewer.com/) _(chỉ được sử dụng một trong hai phần mềm này) (Nếu từ chối hoặc thoát máy chủ hoặc bị phát hiện có phần mềm gian lận lúc Screen Share sẽ bị ban ngay lập tức. Nếu thú nhận sẽ được giảm án)_.
 7. Khi chơi trong máy chủ của chúng tôi và/hoặc sử dụng dịch vụ của chúng tôi thì đồng nghĩa với việc bạn đồng ý với [_**\[Chính Sách & Điều Khoản\]**_](chinh-sach-and-dieu-khoan.md)\

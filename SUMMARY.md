@@ -11,4 +11,3 @@
 ## Hướng Dẫn
 
 * [Cách Bảo Mật Tài Khoản](huong-dan/cach-bao-mat-tai-khoan.md)
-* [Cách chơi Revelation SkyBlock](huong-dan/cach-choi-revelation-skyblock.md)
