@@ -14,4 +14,4 @@ description: Bảo mật tài khoản của bạn
 
 
 
-* Quên mật khẩu, bị hack, ...? --> [\[ẤN VÀO ĐÂY\]](../thong-tin-chung/cau-hoi-thuong-gap.md)
+* Quên mật khẩu, bị hack, ...? --> [\[ẤN VÀO ĐÂY\]](cau-hoi-thuong-gap-backup.md)
