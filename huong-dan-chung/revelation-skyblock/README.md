@@ -1,3 +1,3 @@
-# Zelda SMP
+# Revelation Skyblock
 
 Đang cập nhật...
