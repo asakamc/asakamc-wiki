@@ -2,14 +2,9 @@
 
 ### **Lưu Ý**
 
-KHI CHƠI TẠI MÁY CHỦ CỦA CHÚNG TÔI VÀ/HOẶC SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI THÌ ĐỒNG NGHĨA VỚI VIỆC BẠN ĐỒNG Ý VỚI NHỮNG ĐIỀU ĐƯỢC NÊU TRONG VĂN BẢN NÀY.
-
 NẾU BẠN CÓ THẮC MẮC, VUI LÒNG LIÊN HỆ CHÚNG TÔI QUA [_**MÁY CHỦ DISCORD**_](../) ĐỂ ĐƯỢC GIẢI ĐÁP. CHÚNG TÔI KHÔNG CHỊU TRÁCH NHIỆM NẾU CÓ HIỂU NHẦM, PHÁT SINH, MÂU THUẪN KHÔNG ĐÁNG CÓ.
 
-CHÚNG TÔI CÓ THỂ CẬP NHẬT NỘI QUY NÀY THEO THỜI GIAN. BẤT KỲ THAY ĐỔI NÀO SẼ ĐƯỢC THÔNG BÁO QUA KÊNH THÔNG BÁO CỦA CHÚNG TÔI QUA [_**MÁY CHỦ DISCORD**_](../). VIỆC TIẾP TỤC CHƠI VÀ/HOẶC SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI ĐỒNG NGHĨA VỚI VIỆC ĐỒNG Ý NHỮNG THAY ĐỔI ĐÓ.
-
-_CHÚNG TÔI SẼ KHÔNG CHỊU TRÁCH NHIỆM NẾU BẠN BỊ MẤT TÀI KHOẢN HOẶC BỊ XÂM PHẠM TRÁI PHÉP NẾU BẠN CHIA SẺ TÀI KHOẢN CỦA BẠN CHO NGƯỜI KHÁC/KHÔNG BẢO MẬT TÀI KHOẢN KĨ/BỊ VIRUS, TROJAN, RAT/..._\
-_BẠN CÓ THỂ XEM CÁCH BẢO MẬT TÀI KHOẢN_ [_**\[TẠI ĐÂY\]**_](cach-bao-mat-tai-khoan.md)_._
+CHÚNG TÔI CÓ THỂ CẬP NHẬT NỘI QUY NÀY BẤT KÌ LÚC NÀO VÀ CÓ HIỆU LỰC NGAY LẬP TỨC MÀ KHÔNG CẦN PHẢI THÔNG BÁO TRƯỚC. VIỆC TIẾP TỤC CHƠI VÀ/HOẶC SỬ DỤNG DỊCH VỤ CỦA CHÚNG TÔI ĐỒNG NGHĨA VỚI VIÊC BẠN ĐỒNG Ý VỚI NHỮNG THAY ĐỔI ĐÓ.
 
 ### **Nội Quy 1 (Trò Chuyện/Chat)**
 
@@ -40,4 +35,4 @@ _BẠN CÓ THỂ XEM CÁCH BẢO MẬT TÀI KHOẢN_ [_**\[TẠI ĐÂY\]**_](cac
 5. Phải dùng trò chơi _(client)_/sửa đổi _(mod/_&#x6D;odificatio&#x6E;_)_/chức năng cho phép và đúng theo nội quy.
 6. Nếu chúng tôi đóng băng _(Freeze)_ bạn để yêu cầu Screenshare _(SS)_, vui lòng tải bật phần mềm [_**AnyDesk**_](https://anydesk.com) hoặc [_**TeamViewer**_](https://www.teamviewer.com/) _(chỉ được sử dụng một trong hai phần mềm này) (Nếu từ chối hoặc thoát máy chủ hoặc bị phát hiện có phần mềm gian lận lúc SS sẽ bị xử phạt. Nếu vi phạm nội quy và thú nhận lúc SS thì sẽ được giảm án (tuỳ trường hợp))_.
 7. Các máy chủ/trò chơi/chế độ khác nhau sẽ có thể có thêm các nội quy khác nhau.
-8. Khi chơi trong máy chủ của chúng tôi và/hoặc sử dụng dịch vụ của chúng tôi thì đồng nghĩa với việc bạn đồng ý với [_**\[Chính Sách & Điều Khoản\]**_](chinh-sach-and-dieu-khoan.md)_**.**_\
+8. Khi chơi trong máy chủ của chúng tôi và/hoặc sử dụng dịch vụ của chúng tôi thì đồng nghĩa với việc bạn đồng ý với [_**\[Chính Sách & Điều Khoản\]**_](chinh-sach-and-dieu-khoan/)_**.**_\

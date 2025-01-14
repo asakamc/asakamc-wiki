@@ -1,20 +1,6 @@
-# Chính Sách & Điều Khoản
+# Chính sách bảo mật
 
-## Định nghĩa thuật ngữ
-
-&#x20;\- **"AsakaMC"** / **"Chúng tôi"** / **"Máy chủ"**: Đề cập đến đội ngũ quản trị, nhà phát triển và nhân viên của AsakaMC, bao gồm mọi dịch vụ và nền tảng liên quan đến máy chủ Minecraft AsakaMC.
-
-&#x20;\- **"Bạn"** / **"Người chơi"**: Bất kì cá nhân nào tham gia, sử dụng dịch vụ của chúng tôi.
-
-## Lưu ý
-
-&#x20;\- Khi chơi tại máy chủ của chúng tôi và/hoặc sử dụng dịch vụ của chúng tôi thì đồng nghĩa với việc bạn đồng ý với những điều được nêu trong văn bản này.&#x20;
-
-&#x20;\- Nếu bạn có thắc mắc, vui lòng liên hệ chúng tôi qua [máy chủ Discord](../) để được giải đáp. Chúng tôi không chịu trách nhiệm nếu có hiểu nhầm, phát sinh, mâu thuẫn không đáng có.
-
-## Chính sách bảo mật
-
-_Cập nhật lần cuối: Ngày 23 tháng 10 năm 2024 lúc 23 giờ 3 phút (UTC +7)_
+_Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
 ### I. Thông tin chúng tôi thu thập
 
@@ -64,14 +50,4 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 ### V. Quyền của bạn
 
-&#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình nếu những yêu cầu này chúng tôi cho là hợp lí. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../).
-
-### VI. Thay đổi chính sách
-
-&#x20;\- Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào sẽ được thông báo qua kênh thông báo của chúng tôi qua [Discord](../). Việc tiếp tục chơi và/hoặc sử dụng dịch vụ của chúng tôi đồng nghĩa với việc đồng ý những thay đổi đó.
-
-## Điều khoản dịch vụ
-
-_Cập nhật lần cuối: Ngày ? tháng ? năm ? lúc ? giờ ? phút (UTC +7)_
-
-_**Cập nhật sau...**_
+&#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình nếu những yêu cầu này chúng tôi cho là hợp lí. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../../).
