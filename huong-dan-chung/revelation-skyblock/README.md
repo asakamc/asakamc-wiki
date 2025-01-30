@@ -1,3 +1,3 @@
 # Revelation Skyblock
 
-Đang cập nhật...
+Máy chủ Skyblock
