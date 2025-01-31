@@ -9,6 +9,7 @@
   * [Chính sách bảo mật](thong-tin-chung/chinh-sach-and-dieu-khoan/chinh-sach-bao-mat.md)
 * [Cách Bảo Mật Tài Khoản](thong-tin-chung/cach-bao-mat-tai-khoan.md)
 * [Câu Hỏi Thường Gặp](thong-tin-chung/cau-hoi-thuong-gap.md)
+* [Donate & Rank](thong-tin-chung/donate-and-rank.md)
 
 ## Hướng Dẫn Chung
 

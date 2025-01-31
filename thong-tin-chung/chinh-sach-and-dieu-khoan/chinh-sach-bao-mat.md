@@ -2,7 +2,7 @@
 
 _Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
-### I. Thông tin chúng tôi thu thập
+## I. Thông tin chúng tôi thu thập
 
 Khi bạn tham gia vào máy chủ của chúng tôi, chúng tôi sẽ thu thập các loại thông tin sau:
 
@@ -16,7 +16,7 @@ Khi bạn tham gia vào máy chủ của chúng tôi, chúng tôi sẽ thu thậ
 
 &#x20;\- Và một số thông tin cá nhân khác như mật khẩu _(đã được mã hoá; chỉ sử dụng để xác thực khi đăng kí và đăng nhập)_, ngày đăng kí tài khoản, ...
 
-### II. Cách chúng tôi sử dụng thông tin
+## II. Cách chúng tôi sử dụng thông tin
 
 Chúng tôi sử dụng thông tin cá nhân của bạn cho các mục đích sau:
 
@@ -30,7 +30,7 @@ Chúng tôi sử dụng thông tin cá nhân của bạn cho các mục đích s
 
 _CHÚNG TÔI CAM KẾT KHÔNG SỬ DỤNG THÔNG TIN CỦA BẠN VỚI MỤC ĐÍCH KHÁC MÀ KHÔNG THÔNG BÁO TRƯỚC HOẶC ĐƯỢC NÊU Ở TRONG VĂN BẢN NÀY._
 
-### III. Bảo vệ thông tin
+## III. Bảo vệ thông tin
 
 Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức để bảo vệ thông tin cá nhân của bạn khỏi truy cập trái phép, mất mát hoặc rò rỉ. Điều này bao gồm:
 
@@ -40,7 +40,7 @@ Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức để bả
 
 _TUY NHIÊN, TẤT NHIÊN KHÔNG CÓ HỆ THỐNG BẢO MẬT NÀO LÀ HOÀN HẢO TUYỆT ĐỐI. DÙ CHÚNG TÔI NỖ LỰC HẾT SỨC ĐỂ BẢO VỆ THÔNG TIN CÁ NHÂN CỦA BẠN, KHÔNG CÓ BIỆN PHÁP BẢO MẬT NÀO CÓ THỂ ĐẢM BẢO AN TOÀN MỘT CÁCH HOÀN TOÀN TRƯỚC MỌI RỦI RO TIỀM ẨN. TRONG TRƯỜNG HỢP CÓ SỰ CỐ XẢY RA, CHÚNG TÔI SẼ CỐ GẮNG HẾT SỨC ĐỂ KHẮC PHỤC VẤN ĐỀ VÀ THÔNG BÁO CHO NGƯỜI CHƠI THEO QUY ĐỊNH CỦA PHÁP LUẬT VIỆT NAM QUY ĐỊNH. CHÚNG TÔI KHÔNG CHỊU TRÁCH NHIỆM ĐỐI VỚI NHỮNG THIỆT HẠI PHÁT SINH DO LỖI CHỦ QUAN TỪ PHÍA NGƯỜI DÙNG HOẶC DO CÁC YẾU TỐ NGOÀI TẦM KIỂM SOÁT CỦA CHÚNG TÔI._
 
-### IV. Chia sẻ thông tin
+## IV. Chia sẻ thông tin
 
 Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của bạn với bên thứ ba mà không có sự đồng ý của bạn, ngoại trừ trong các trường hợp sau:
 
@@ -48,6 +48,6 @@ Chúng tôi không bán, trao đổi hoặc chia sẻ thông tin cá nhân của
 
 &#x20;\- **Đối tác tin cậy**: Chúng tôi chỉ chia sẻ các thông tin cơ bản như IP, thư điện tử _(email)_ với các đối tác hỗ trợ trong việc duy trì và vận hành máy chủ và họ phải tuân thủ các cam kết bảo mật của chúng tôi.
 
-### V. Quyền của bạn
+## V. Quyền của bạn
 
 &#x20;\- Bạn có quyền yêu cầu xem lại, chỉnh sửa hoặc xóa thông tin cá nhân của mình nếu những yêu cầu này chúng tôi cho là hợp lí. Để thực hiện các quyền này, vui lòng liên hệ với chúng tôi qua [Discord](../../).

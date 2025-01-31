@@ -2,7 +2,7 @@
 
 _Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
-### I. Tài Khoản
+## I. Tài Khoản
 
 &#x20;\- **Đăng ký tài khoản**: Để sử dụng dịch vụ của chúng tôi, bạn cần tạo một tài khoản hợp lệ. Bạn phải cung cấp thông tin chính xác và đầy đủ trong quá trình đăng ký.
 
@@ -10,7 +10,7 @@ _Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
 &#x20;\- **Hủy tài khoản**: Chúng tôi có quyền hủy, đình chỉ hoặc xoá tài khoản của bạn nếu bạn vi phạm bất kỳ điều khoản nào trong điều khoản dịch vụ này hoặc vi phạm [nội quy](../noi-quy-chung.md) của chúng tôi.
 
-### II. Thanh toán, mua bán và giao dịch
+## II. Thanh toán, mua bán và giao dịch
 
 &#x20;\- **Hình thức thanh toán**: Chúng tôi chỉ chấp nhận các phương thức thanh toán hợp lệ thông qua các phương thức được liệt kê khi giao dịch.
 
@@ -18,11 +18,11 @@ _Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
 &#x20;\- **Giao dịch trong máy chủ**: Mọi giao dịch trong máy chủ phải tuân thủ quy định của máy chủ. Chúng tôi sẽ không chịu trách nhiệm về các giao dịch giữa các người chơi mà không qua sự giám sát của chúng tôi.
 
-### III. Độ tuổi
+## III. Độ tuổi
 
 &#x20;\- **Giới hạn độ tuổi**: Bạn phải từ 18 tuổi trở lên _hoặc tuổi được quy định là vị thành niên tại địa phương bạn (nếu khác)_ để sử dụng dịch vụ của chúng tôi. Nếu bạn dưới độ tuổi thành niên, bạn cần có sự đồng ý của cha mẹ hoặc người giám hộ.
 
-### IV. Trách nhiệm
+## IV. Trách nhiệm
 
 &#x20;\- **Sử dụng hợp pháp**: Bạn đồng ý sử dụng dịch vụ của chúng tôi một cách hợp pháp và không vi phạm bất kỳ quy định pháp luật nào của Việt Nam.
 
@@ -30,6 +30,6 @@ _Cập nhật lần cuối vào ngày 14 tháng 1 năm 2025_
 
 &#x20;\- **Trách nhiệm bồi thường**: Bạn đồng ý bồi thường cho chúng tôi và giữ cho chúng tôi vô hại trước bất kỳ yêu cầu, khiếu nại, hoặc thiệt hại nào phát sinh từ việc bạn vi phạm điều khoản dịch vụ này.
 
-### VI. Quyền riêng tư
+## VI. Quyền riêng tư
 
 &#x20;\- **Chính sách bảo mật**: Chúng tôi cam kết bảo vệ thông tin cá nhân của bạn. Chi tiết [_**\[TẠI ĐÂY\]**_](chinh-sach-bao-mat.md)
